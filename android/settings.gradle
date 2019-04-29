@@ -1,0 +1,3 @@
+rootProject.name = 'Linkidin'
+
+include ':app'
